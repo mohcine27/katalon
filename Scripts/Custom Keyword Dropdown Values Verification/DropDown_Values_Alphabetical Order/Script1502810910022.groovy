@@ -13,5 +13,3 @@ WebUI.openBrowser(htmlDir)
 CustomKeywords.'reusableComponents.VerifyDrodownValues_AlphabeticalOrder.verifyOptionsInDropdownInAphabeticalOrder'(findTestObject(
         'DropDown/comboBox_Role'))
 
-WebUI.closeBrowser()
-
